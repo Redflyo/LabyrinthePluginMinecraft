@@ -1,0 +1,14 @@
+name: LabyrintheManager
+author: Redflyo
+version: 1.0
+main: fr.redflyo.labyrinthe.main
+load: POSTWORLD
+api-version: 1.13
+description: Manage All the world in labyrinthe worldaa   
+commands:
+   door:
+      description: teleport to a cell with door
+      usage: /door
+   doorNextState:
+      description: next step of door on your position
+      usage: /doorNextState
